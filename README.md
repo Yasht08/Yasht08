@@ -6,7 +6,7 @@
 
 <br>
 
-- 🔭 I’m currently working on [a building a healthcare app called "HealthSync" which will incorporate wellness management system .](https://github.com/Yasht08/HealthSync.git)
+- 🔭 I’m currently working on [a building a healthcare app called "HealthSync" which will incorporate various wellness management systems and Functionalities .](https://github.com/Yasht08/HealthSync.git)
 
 - 🌱 I’m currently learning **MERN Stack and JavaScript**
 
