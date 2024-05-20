@@ -25,5 +25,6 @@
 
 
 [![Yasht08's GitHub | Languages Over Time](https://stats.quine.sh/Yasht08/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Yasht08)
-<br>
+
 [![Yasht08's GitHub | Stats](https://stats.quine.sh/Yasht08/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Yasht08)
+
