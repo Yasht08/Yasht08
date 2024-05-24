@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a building a healthcare app called "HealthSync" which will incorporate various wellness management systems and Functionalities .<br><br>🌱 I’m currently learning MERN Stack and JavaScript<br><br>👨‍💻 All of my projects are available at https://github.com/Yasht08<br><br>📫 How to reach me YashTolani07@gmail.com<br><br>⚡ Fun fact I'm deeply fascinated by the world of cryptocurrencies and trading. I love diving into the complexities of financial markets and institutions, always eager to learn more and stay updated with the latest trends and developments!
+🔭 I’m currently working on : building a healthcare app called "HealthSync" which will incorporate various wellness management systems and Functionalities .<br><br>🌱 I’m currently learning : MERN Stack and JavaScript<br><br>👨‍💻 All of my projects are available at https://github.com/Yasht08<br><br>📫 How to reach me YashTolani07@gmail.com<br><br>⚡ Fun fact I'm deeply fascinated by the world of cryptocurrencies and trading. I love diving into the complexities of financial markets and institutions, always eager to learn more and stay updated with the latest trends and developments!
 
 
 ## 🌐 Socials:
