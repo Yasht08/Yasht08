@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 <strong>Currently Working On:</strong> Expanding my knowledge of new technologies and programming skills.<br><br>
 
-🌱 <strong>Currently Learning:</strong> MERN Stack and JavaScript.<br><br>
+🌱 <strong>Currently Learning:</strong> MERN Stack.<br><br>
 
 👨‍💻 <strong>All of my projects are available at:</strong> <a href="https://github.com/Yasht08">GitHub - Yasht08</a><br><br>
 
