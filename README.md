@@ -5,7 +5,7 @@
 
 👨‍💻 <strong>All of my projects are available at:</strong> <a href="https://github.com/Yasht08">GitHub - Yasht08</a><br><br>
 
-📂 <strong>Check out my Portfolio:</strong> <a href="https://portfolio-alpha-three-21.vercel.app">portfolio-alpha-three-21.vercel.app</a><br><br>
+📂 <strong>Check out my Portfolio:</strong> <a href="https://portfolio-alpha-three-21.vercel.app">Portfolio</a><br><br>
 
 📫 <strong>Reach me at:</strong> YashTolani07@gmail.com<br><br>
 
