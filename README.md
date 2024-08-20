@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on : Learning New Technologies and Programming Skills. <br><br>🌱 I’m currently learning : MERN Stack and JavaScript<br><br>👨‍💻 All of my projects are available at https://github.com/Yasht08<br><br><br>You Can View My Portfolio at : https://portfolio-alpha-three-21.vercel.app<br><br>📫 How to reach me : YashTolani07@gmail.com<br><br>⚡ Fun fact : I'm deeply fascinated by the world of cryptocurrencies and trading. I love diving into the complexities of financial markets and institutions, always eager to learn more and stay updated with the latest trends and developments!
+🔭 I’m currently working on : Learning New Technologies and Programming Skills. <br><br>🌱 I’m currently learning : MERN Stack and JavaScript<br><br>👨‍💻 All of my projects are available at https://github.com/Yasht08<br><br>You Can View My Portfolio at : https://portfolio-alpha-three-21.vercel.app<br>📫 How to reach me : YashTolani07@gmail.com<br><br>⚡ Fun fact : I'm deeply fascinated by the world of cryptocurrencies and trading. I love diving into the complexities of financial markets and institutions, always eager to learn more and stay updated with the latest trends and developments!
 
 
 ## 🌐 Socials:
